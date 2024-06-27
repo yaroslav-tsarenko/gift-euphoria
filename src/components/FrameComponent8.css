@@ -1,0 +1,357 @@
+.heading-16 {
+  align-self: stretch;
+  position: relative;
+  line-height: 42px;
+}
+.one-card-all {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.happy-you-card-header,
+.one-card-description {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.one-card-description {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 48px;
+  font-size: 14px;
+  color: #545454;
+  font-family: Roboto;
+}
+.happy-you-card-header {
+  width: 285px;
+  flex-direction: column;
+  gap: 12px;
+}
+.happy-you-card-header-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  text-align: center;
+  font-size: 32px;
+  font-family: "Avenir Next LT Pro";
+}
+.ea8974-54f5-4cd1-9ec5-ab2e81c4-icon {
+  margin-left: -388px;
+}
+.a6d42ec-5474-4179-8bf9-50467f6-icon,
+.ae53c1c-bb39-48e1-9f3e-7f4f294-icon,
+.e6f7b19-23f3-4657-bdf9-6f180d8-icon,
+.ea8974-54f5-4cd1-9ec5-ab2e81c4-icon,
+.f5c7c0eb-2421-4c5e-939f-56838d-icon,
+.fd3ce61-5f72-4081-829e-e883e76-icon {
+  position: relative;
+  border-radius: 12px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 236px;
+  flex-shrink: 0;
+}
+.container38 {
+  position: absolute;
+  height: calc(100% - 57.6px);
+  width: 100%;
+  top: 57.6px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  display: grid;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 194px 84.8px;
+  box-sizing: border-box;
+  gap: 20px;
+  max-width: 100%;
+  grid-template-columns: repeat(6, minmax(276px, 1fr));
+}
+.link-icon,
+.wrapper-link {
+  position: absolute;
+  z-index: 1;
+}
+.link-icon {
+  width: 100%;
+  overflow: hidden;
+  height: 100%;
+  object-fit: contain;
+  left: 0;
+  top: 10px;
+  transform: scale(1.063);
+}
+.wrapper-link {
+  width: 25.78%;
+  top: 32.6px;
+  right: 37.11%;
+  left: 37.11%;
+  border-radius: 20px;
+  max-width: 100%;
+  height: 318px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container37,
+.happy-card-giftsvg-icon {
+  align-self: stretch;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container37 {
+  height: 378px;
+  max-width: 100%;
+}
+.happy-card-giftsvg-icon {
+  width: 40px;
+  max-height: 100%;
+  min-height: 50px;
+}
+.brands,
+.choice {
+  position: relative;
+}
+.choice {
+  line-height: 135%;
+  display: inline-block;
+  min-width: 53.3px;
+}
+.brands {
+  align-self: stretch;
+  line-height: 25px;
+  color: #3a1a5f;
+}
+.choice-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.happy-card-giftsvg-parent {
+  width: 173.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.happy-card-emailsvg-icon {
+  align-self: stretch;
+  width: 40px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 50px;
+}
+.convenience {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 99.4px;
+}
+.digital-delivery {
+  align-self: stretch;
+  position: relative;
+  line-height: 25px;
+  color: #3a1a5f;
+}
+.convenience-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.happy-card-emailsvg-parent {
+  width: 187.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.happy-card-storesvg-icon {
+  align-self: stretch;
+  width: 40px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 50px;
+}
+.acceptance {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 91.7px;
+}
+.online-in-store {
+  align-self: stretch;
+  position: relative;
+  line-height: 25px;
+  color: #3a1a5f;
+}
+.acceptance-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.happy-card-storesvg-parent {
+  width: 206.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-div,
+.happy-you-card-features {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-div {
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 64px;
+}
+.happy-you-card-features {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+  box-sizing: border-box;
+  color: gray;
+}
+.see-all-happyyou {
+  flex: 1;
+  position: relative;
+  line-height: 23px;
+  color: inherit;
+  text-decoration: none;
+}
+.icon7 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.5px 0 0;
+}
+.frame-container,
+.link20,
+.see-all-happy-you-cards {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.link20 {
+  width: 280px;
+  border-radius: 12px;
+  border: 1px solid #c5445e;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  padding: 15px 24px;
+  gap: 19.6px;
+}
+.frame-container,
+.see-all-happy-you-cards {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+  color: #c5445e;
+}
+.frame-container {
+  background-color: #c6c6c6;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 80px 0;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #3a1a5f;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1650px) {
+  .container38 {
+    justify-content: center;
+    grid-template-columns: repeat(3, minmax(276px, 478px));
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading-16 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .container38 {
+    grid-template-columns: repeat(2, minmax(276px, 478px));
+  }
+  .frame-div {
+    gap: 32px;
+  }
+  .frame-container {
+    gap: 16px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-16 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .one-card-description {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .a6d42ec-5474-4179-8bf9-50467f6-icon,
+  .ae53c1c-bb39-48e1-9f3e-7f4f294-icon,
+  .e6f7b19-23f3-4657-bdf9-6f180d8-icon,
+  .ea8974-54f5-4cd1-9ec5-ab2e81c4-icon,
+  .f5c7c0eb-2421-4c5e-939f-56838d-icon,
+  .fd3ce61-5f72-4081-829e-e883e76-icon {
+    width: 100%;
+  }
+  .container38 {
+    grid-template-columns: minmax(276px, 1fr);
+  }
+  .frame-div {
+    gap: 16px;
+  }
+  .frame-container {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}

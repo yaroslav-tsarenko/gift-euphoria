@@ -1,0 +1,187 @@
+.header7 {
+  border: 0;
+  background-color: transparent;
+  height: 54px;
+  flex: 1;
+  font-family: Roboto;
+  font-size: 16px;
+  color: #fff;
+  max-width: 100%;
+}
+.social-header {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.cart-subtotal,
+.grand-total-label {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 94px;
+}
+.grand-total-label {
+  text-align: right;
+  min-width: 59px;
+  white-space: nowrap;
+}
+.subtotal-values,
+.subtotal-values-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.subtotal-values {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.subtotal-values-wrapper {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.other-taxes,
+.shipping-handling {
+  position: relative;
+  line-height: 22px;
+}
+.other-taxes {
+  display: inline-block;
+  min-width: 85px;
+}
+.cost-breakdown {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.div10,
+.div11 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 41px;
+  white-space: nowrap;
+}
+.other-tax-labels {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  text-align: right;
+}
+.app-download2,
+.shipping-costs {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.shipping-costs {
+  flex: 1;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.app-download2 {
+  justify-content: flex-start;
+  padding: 0 25px;
+}
+.app-download2,
+.company-info,
+.region-links {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.company-info {
+  flex: 1;
+  position: relative;
+  border-top: 1px solid #cacaca;
+}
+.region-links {
+  height: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 3px;
+}
+.div12,
+.grand-total2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 82px;
+}
+.div12 {
+  text-align: right;
+  min-width: 59px;
+  white-space: nowrap;
+}
+.grand-total-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.checkout-details,
+.checkout-details-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.checkout-details-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 25px;
+}
+.checkout-details {
+  width: 504px;
+  border-radius: 5px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 41px;
+  gap: 32px;
+  min-width: 504px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1275px) {
+  .checkout-details {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 750px) {
+  .checkout-details {
+    gap: 16px;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .grand-total-parent,
+  .shipping-costs,
+  .subtotal-values {
+    flex-wrap: wrap;
+  }
+  .checkout-details {
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}

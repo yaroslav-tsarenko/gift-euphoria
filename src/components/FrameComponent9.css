@@ -1,0 +1,72 @@
+.heading-4 {
+  width: 757px;
+  height: 113px;
+  position: relative;
+  line-height: 110%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.frame-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #6a6a6a;
+  font-family: "Plus Jakarta Sans";
+}
+.heading-4-weve-got-your-bac-parent {
+  width: 989.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 48px;
+  max-width: 100%;
+}
+.homepage-child {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #3a1a5f;
+  font-family: "Avenir Next LT Pro";
+}
+@media screen and (max-width: 900px) {
+  .heading-4 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .frame-parent1 {
+    justify-content: center;
+  }
+  .heading-4-weve-got-your-bac-parent {
+    gap: 24px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-4 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .homepage-child {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}

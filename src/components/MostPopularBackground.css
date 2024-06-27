@@ -1,0 +1,1789 @@
+.heading-6,
+.svg-icon {
+  position: relative;
+  flex-shrink: 0;
+}
+.heading-6 {
+  width: 144.2px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.svg-icon {
+  height: 21px;
+  width: 21px;
+  object-fit: contain;
+  min-height: 21px;
+}
+.select-category {
+  width: 255.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.a639fe-c820-4af1-8725-4cd06be0-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.image {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.hypermarkets-shopping-malls-im {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 0 0;
+}
+.most-popular {
+  height: 17px;
+  position: relative;
+  line-height: 135%;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  text-decoration: none;
+  min-width: 104px;
+}
+.most-popular-wrapper {
+  width: 193px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.5px 20px 0 0;
+  box-sizing: border-box;
+}
+.background17 {
+  height: 46px;
+  width: 3px;
+  position: relative;
+  background-color: #c5445e;
+  flex-shrink: 0;
+}
+.item4 {
+  border-radius: 6px 0 0 6px;
+  background-color: #f9ebf8;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 11px;
+  gap: 20px;
+  color: #c5445e;
+}
+.d9737c73-8c1a-4a75-9301-90293d-icon,
+.image1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.image1 {
+  display: none;
+}
+.d9737c73-8c1a-4a75-9301-90293d-icon {
+  object-fit: cover;
+  z-index: 1;
+}
+.container43,
+.single-brands {
+  position: relative;
+  flex-shrink: 0;
+}
+.container43 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.single-brands {
+  align-self: stretch;
+  height: 17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.category-cards,
+.container-container,
+.single-brands-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.single-brands-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.category-cards,
+.container-container {
+  flex-direction: row;
+}
+.container-container {
+  flex: 1;
+  gap: 20px;
+}
+.category-cards {
+  width: 175px;
+  padding: 0 11px;
+  box-sizing: border-box;
+}
+.e8794e-e680-4a57-891a-84d7a118-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.hypermarkets1,
+.image2 {
+  position: relative;
+  flex-shrink: 0;
+}
+.image2 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.hypermarkets1 {
+  align-self: stretch;
+  height: 17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.occasion-cards,
+.single-brands-card {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.single-brands-card {
+  flex: 1;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.occasion-cards {
+  width: 157px;
+  flex-direction: row;
+  gap: 20px;
+}
+.a0eeb95e-b6c1-40f8-bd84-644ee9-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.image3,
+.shopping-malls1 {
+  position: relative;
+  flex-shrink: 0;
+}
+.image3 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.shopping-malls1 {
+  align-self: stretch;
+  height: 17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.category-cards2,
+.fathers-day-cards {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.category-cards2 {
+  flex: 1;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.fathers-day-cards {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 20px;
+}
+.occasion-cards-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 24px;
+}
+.category-cards1,
+.occasion-cards-parent,
+.popular-gift-cards {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.category-cards1 {
+  width: 188px;
+  flex-direction: row;
+  padding: 0 11px;
+  box-sizing: border-box;
+}
+.popular-gift-cards {
+  flex-direction: column;
+  gap: 24px;
+}
+.link-ac41bb9c-8966-458e-84d4 {
+  width: 944px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+}
+.popular-gift-cards-parent {
+  width: 1402px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.ccfce5e-dc5b-43f9-84ec-250707c-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.image4,
+.online-shopping1 {
+  position: relative;
+  flex-shrink: 0;
+}
+.image4 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.online-shopping1 {
+  align-self: stretch;
+  height: 17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.fathers-day-cards2,
+.occasion-names {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.occasion-names {
+  flex: 1;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.fathers-day-cards2 {
+  width: 176px;
+  flex-direction: row;
+  gap: 20px;
+}
+.birthday {
+  position: relative;
+  line-height: 17px;
+  display: inline-block;
+  min-width: 67px;
+  z-index: 1;
+}
+.b8d9b7ba-daa0-4d44-8332-3cbcb7-icon,
+.image5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.b8d9b7ba-daa0-4d44-8332-3cbcb7-icon {
+  object-fit: cover;
+  z-index: 1;
+}
+.image5 {
+  display: none;
+  z-index: 2;
+}
+.b8d9b7ba-daa0-4d44-8332-3cbcb7-parent {
+  height: 24px;
+  width: 24px;
+  position: absolute;
+  margin: 0 !important;
+  top: -4px;
+  left: 0;
+}
+.item-link1 {
+  align-self: stretch;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 44px 7.5px;
+  box-sizing: border-box;
+  position: relative;
+}
+.f89dc566-3bb2-411d-bbfd-719ee6-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.fashion-accessories,
+.image6 {
+  position: relative;
+  flex-shrink: 0;
+}
+.image6 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.fashion-accessories {
+  align-self: stretch;
+  height: 17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.fashion-accessories-wrapper,
+.fathers-day-cards3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fashion-accessories-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.fathers-day-cards3 {
+  width: 222px;
+  flex-direction: row;
+  padding: 0 0 4px;
+  box-sizing: border-box;
+  gap: 20px;
+}
+.a1c4c92c-c4f9-462d-89d4-30690e-icon,
+.image7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.image7 {
+  display: none;
+}
+.a1c4c92c-c4f9-462d-89d4-30690e-icon {
+  object-fit: cover;
+  z-index: 1;
+}
+.container44,
+.electronics1 {
+  position: relative;
+  flex-shrink: 0;
+}
+.container44 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.electronics1 {
+  height: 17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  min-width: 87px;
+}
+.electronics-wrapper,
+.fathers-day-cards4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3.5px 0 0;
+}
+.fathers-day-cards4 {
+  flex-direction: row;
+  padding: 0 0 4px;
+  gap: 20px;
+}
+.bd0e03c4-3a3a-4e3a-80cd-46cd16-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.image8,
+.payout-budgeting {
+  position: relative;
+  flex-shrink: 0;
+}
+.image8 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.payout-budgeting {
+  align-self: stretch;
+  height: 17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.occasion-card-items,
+.payout-budgeting-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.payout-budgeting-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.occasion-card-items {
+  width: 203px;
+  flex-direction: row;
+  padding: 0 0 4px;
+  box-sizing: border-box;
+  gap: 20px;
+}
+.cca9ed6e-8c62-4ef7-b49d-7cf427-icon,
+.image9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.image9 {
+  display: none;
+}
+.cca9ed6e-8c62-4ef7-b49d-7cf427-icon {
+  object-fit: cover;
+  z-index: 1;
+}
+.container45,
+.home-garden1 {
+  position: relative;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.container45 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.home-garden1 {
+  align-self: stretch;
+  height: 17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.occasion-card-items1,
+.see-more {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.see-more {
+  flex: 1;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.occasion-card-items1 {
+  width: 173px;
+  flex-direction: row;
+  padding: 0 0 4px;
+  box-sizing: border-box;
+  gap: 20px;
+}
+.link-see4 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 68px;
+}
+.background-container,
+.background18 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.background18 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0),
+    rgba(255, 255, 255, 0.9) 67%,
+    #fff
+  );
+  justify-content: flex-start;
+  padding: 0 6px;
+  white-space: nowrap;
+}
+.background-container {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+  text-align: center;
+  color: #c5445e;
+}
+.item-link-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 20px;
+}
+.fathers-day-cards-inner,
+.fathers-day-cards-parent,
+.item-link-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fathers-day-cards-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 28px;
+}
+.fathers-day-cards-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 11px 16px;
+}
+.separator {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  border: 1px solid #ebeded;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.divider-space-icon {
+  width: 249.5px;
+  height: 20px;
+  object-fit: contain;
+}
+.bath-body-works-heading-link {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.f544589-f056-4ff3-8c07-04192be-icon,
+.image10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.image10 {
+  display: none;
+}
+.f544589-f056-4ff3-8c07-04192be-icon {
+  object-fit: cover;
+  z-index: 1;
+}
+.container46,
+.fathers-day {
+  position: relative;
+  flex-shrink: 0;
+}
+.container46 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.fathers-day {
+  align-self: stretch;
+  height: 17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.container-parent1,
+.fathers-day-names {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fathers-day-names {
+  flex: 1;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.container-parent1 {
+  width: 142px;
+  flex-direction: row;
+  gap: 20px;
+}
+.be4b-f064-4416-9ffb-85fb21afb0-icon,
+.image11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.image11 {
+  display: none;
+}
+.be4b-f064-4416-9ffb-85fb21afb0-icon {
+  object-fit: cover;
+  z-index: 1;
+}
+.container47,
+.graduation {
+  position: relative;
+  flex-shrink: 0;
+}
+.container47 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.graduation {
+  align-self: stretch;
+  height: 17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.container-parent2,
+.graduation-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.graduation-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.container-parent2 {
+  width: 136px;
+  flex-direction: row;
+  gap: 20px;
+}
+.c015effc-a5f7-46af-a9a2-69f1a0-icon,
+.image12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.image12 {
+  display: none;
+}
+.c015effc-a5f7-46af-a9a2-69f1a0-icon {
+  object-fit: cover;
+  z-index: 1;
+}
+.container48,
+.rakhi {
+  position: relative;
+  flex-shrink: 0;
+}
+.container48 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.rakhi {
+  align-self: stretch;
+  height: 17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.container-parent3,
+.rakhi-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rakhi-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.container-parent3 {
+  width: 88px;
+  flex-direction: row;
+  gap: 20px;
+}
+.d315b2aa-2ee1-4e66-8fc1-c18a35-icon,
+.image13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.image13 {
+  display: none;
+}
+.d315b2aa-2ee1-4e66-8fc1-c18a35-icon {
+  object-fit: cover;
+  z-index: 1;
+}
+.container49,
+.sisters-day {
+  position: relative;
+  flex-shrink: 0;
+}
+.container49 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.sisters-day {
+  height: 17px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  min-width: 90px;
+}
+.container-parent4,
+.sisters-day-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sisters-day-wrapper {
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.container-parent4 {
+  flex-direction: row;
+  gap: 20px;
+}
+.d624e0f9-8557-4bd5-9641-3ca24b-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.wedding {
+  align-self: stretch;
+  height: 17px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.d624e0f9-8557-4bd5-9641-3ca24b-parent,
+.wedding-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.wedding-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.d624e0f9-8557-4bd5-9641-3ca24b-parent {
+  width: 117px;
+  flex-direction: row;
+  gap: 20px;
+}
+.af80ebb4-6a94-43ca-8c52-a35dd5-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.womens-day {
+  align-self: stretch;
+  height: 17px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.af80ebb4-6a94-43ca-8c52-a35dd5-parent,
+.womens-day-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.womens-day-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.af80ebb4-6a94-43ca-8c52-a35dd5-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 20px;
+}
+.frame-parent3 {
+  width: 153px;
+  gap: 27px;
+}
+.fathers-day-cards1,
+.frame-parent3,
+.pagination {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fathers-day-cards1 {
+  align-self: stretch;
+  gap: 37px;
+}
+.pagination {
+  width: 271px;
+  padding: 22.2px 0 0;
+  box-sizing: border-box;
+}
+.heading-17 {
+  width: 1141px;
+  position: relative;
+  line-height: 53px;
+  font-family: "Avenir Next LT Pro";
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.most-popular1,
+.sort-by {
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.sort-by {
+  display: inline-block;
+  min-width: 74px;
+}
+.most-popular1 {
+  flex: 1;
+  color: gray;
+}
+.icon8 {
+  width: 10px;
+  height: 6px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon-wrapper2,
+.sort-by-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon-wrapper2 {
+  flex-direction: column;
+  padding: 7px 0 0;
+}
+.sort-by-parent {
+  width: 211px;
+  flex-direction: row;
+  gap: 4px;
+  font-size: 14px;
+}
+.ea965a1-01ec-4efa-8254-2ce656c-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading27 {
+  width: 131.1px;
+  position: relative;
+  line-height: 23px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.container50 {
+  height: 223px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.b-477c-b074-cc788a79acd2png-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading28 {
+  width: 219.3px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container51 {
+  height: 223px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.db963c0-409c-4023-8749-262340b-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading29 {
+  width: 239.7px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container52 {
+  height: 223px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.content-container,
+.happy-you-cards {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+}
+.content-container {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+  font-size: 48px;
+}
+.f31a06a1-6e8e-4572-90bc-f35129-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading30 {
+  width: 203.1px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container53,
+.h-m-starbucks {
+  display: flex;
+  align-items: flex-start;
+}
+.container53 {
+  height: 223px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 3px 0 2.9px;
+  box-sizing: border-box;
+  gap: 13.1px;
+}
+.h-m-starbucks {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.e42acf-778c-47a1-9d42-2c2ace35-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading31 {
+  flex: 1;
+  position: relative;
+  line-height: 23px;
+  flex-shrink: 0;
+}
+.in-store-only6 {
+  flex: 1;
+  position: relative;
+  line-height: 16px;
+}
+.background19 {
+  width: 132px;
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 3.8px 4px 4.2px 9px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  white-space: nowrap;
+  color: #ffb779;
+}
+.background19,
+.debenhams-joyalukkas-backgroun,
+.debenhams-joyalukkas-markers {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.debenhams-joyalukkas-markers {
+  flex: 1;
+  gap: 10px;
+}
+.debenhams-joyalukkas-backgroun {
+  align-self: stretch;
+  padding: 0 3px 0 2px;
+}
+.container54,
+.debenhams-joyalukkas1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container54 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 12px;
+  overflow: hidden;
+  padding: 3px 0 2.9px;
+  gap: 13.1px;
+}
+.debenhams-joyalukkas1 {
+  height: 235.1px;
+  width: 300px;
+  padding: 11px 0 0;
+  box-sizing: border-box;
+}
+.featured-cards-container,
+.featured-cards-container1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.dbf-bef3-4f5b-9956-5317f00faa1-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading32 {
+  width: 201.9px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container55 {
+  height: 223.1px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.d3c45-7c37-4515-915f-9737c4356-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading33 {
+  width: 215.2px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container56 {
+  height: 223.1px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.e48ea7b-cd54-4a5f-9bd8-a68cc0b-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading34 {
+  width: 208.3px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container57 {
+  height: 223.1px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.ceefa0-9f91-4d90-9040-7825e78a-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading35 {
+  width: 219.1px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container58 {
+  height: 223.1px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.d09c4e-112f-4c18-9444-67303136-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading36 {
+  width: 215.6px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container59 {
+  height: 223.1px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.f375361e-7604-4adb-8be7-839b14-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading37 {
+  width: 91.7px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container60 {
+  height: 223.1px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.b0913d5f-75c7-4f5a-9e21-00a168-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading38 {
+  width: 47.2px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container61 {
+  height: 223.1px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.f48e543-505d-4c4d-a62d-a888dff-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading39 {
+  position: relative;
+  line-height: 23px;
+  display: inline-block;
+  min-width: 43.1px;
+}
+.container62 {
+  height: 223.1px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.b4f57a-184f-4bdd-91b1-db5d2456-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading40 {
+  width: 42.7px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container63 {
+  height: 223.1px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.b3f8ef-e571-481a-be7d-f0dc1ce5-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading41 {
+  width: 145.2px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container64 {
+  height: 223.1px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.container-parent5 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 47px 154px;
+  min-height: 1034px;
+}
+.birthday-link-item,
+.container-parent5,
+.fathers-day-cards5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fathers-day-cards5 {
+  flex: 1;
+  flex-direction: column;
+  gap: 47px;
+  max-width: calc(100% - 324px);
+}
+.birthday-link-item {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 53px;
+  max-width: 100%;
+}
+.item-button-go-to-previous {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 30px;
+  transform: scale(3.5);
+}
+.wrapper-item-button-go-to {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 12px;
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pagination-button-links {
+  position: relative;
+  letter-spacing: 0.15px;
+  line-height: 21px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 6px;
+}
+.item-button-page-1 {
+  flex: 0.6667;
+  box-shadow: 0 30px 60px rgba(92, 99, 105, 0.15);
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid rgba(92, 99, 105, 0.15);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 19px 11px 21px;
+  min-width: 9px;
+  color: #3a1a5f;
+}
+.div5 {
+  position: relative;
+  letter-spacing: 0.15px;
+  line-height: 21px;
+  display: inline-block;
+  min-width: 9px;
+}
+.item-button-go-to-page-2 {
+  flex: 1;
+  box-shadow: 0 30px 60px rgba(92, 99, 105, 0.15);
+  border-radius: 12px;
+  background-color: rgba(92, 99, 105, 0.02);
+  border: 1px solid rgba(92, 99, 105, 0.15);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 18px 11px 19px;
+  min-width: 9px;
+}
+.div6 {
+  position: relative;
+  letter-spacing: 0.15px;
+  line-height: 21px;
+  display: inline-block;
+  min-width: 9px;
+}
+.item-button-go-to-page-3 {
+  flex: 1;
+  box-shadow: 0 30px 60px rgba(92, 99, 105, 0.15);
+  border-radius: 12px;
+  background-color: rgba(92, 99, 105, 0.02);
+  border: 1px solid rgba(92, 99, 105, 0.15);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 18px 11px 19px;
+  min-width: 9px;
+}
+.div7 {
+  width: 9.4px;
+  position: relative;
+  letter-spacing: 0.15px;
+  line-height: 20.02px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 9.4px;
+}
+.item-button-go-to-page-4 {
+  flex: 1;
+  box-shadow: 0 30px 60px rgba(92, 99, 105, 0.15);
+  border-radius: 12px;
+  background-color: rgba(92, 99, 105, 0.02);
+  border: 1px solid rgba(92, 99, 105, 0.15);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 18px 12px 19px;
+  min-width: 9px;
+}
+.div8 {
+  width: 9.3px;
+  position: relative;
+  letter-spacing: 0.15px;
+  line-height: 20.02px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 9.3px;
+}
+.item-button-go-to-page-5 {
+  flex: 1;
+  box-shadow: 0 30px 60px rgba(92, 99, 105, 0.15);
+  border-radius: 12px;
+  background-color: rgba(92, 99, 105, 0.02);
+  border: 1px solid rgba(92, 99, 105, 0.15);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 18px 12px 19px;
+  min-width: 9px;
+}
+.item5 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.13px;
+  line-height: 17.2px;
+}
+.page-content {
+  width: 22.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 15.4px 0 0;
+  box-sizing: border-box;
+  font-size: 12px;
+  font-family: Roboto;
+}
+.div9 {
+  position: relative;
+  letter-spacing: 0.15px;
+  line-height: 21px;
+  display: inline-block;
+  min-width: 10px;
+}
+.item-button-go-to-page-11 {
+  flex: 0.5238;
+  box-shadow: 0 30px 60px rgba(92, 99, 105, 0.15);
+  border-radius: 12px;
+  background-color: rgba(92, 99, 105, 0.02);
+  border: 1px solid rgba(92, 99, 105, 0.15);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 22px 11px 24px;
+  min-width: 10px;
+}
+.item-button-go-to-next-pag {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 30px;
+  transform: scale(3.5);
+}
+.wrapper-item-button-go-to1 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 12px;
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pagination-items,
+.pagination-items-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.pagination-items {
+  width: 464.4px;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.pagination-items-wrapper {
+  width: 1211.2px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 14px;
+  color: gray;
+  font-family: Poppins;
+}
+.birthday-link-item-parent,
+.most-popular-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.birthday-link-item-parent {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 35px;
+}
+.most-popular-background {
+  width: 1536px;
+  align-items: flex-start;
+  gap: 1.8px;
+  text-align: left;
+  font-size: 16px;
+  color: #3a1a5f;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1300px) {
+  .popular-gift-cards-parent {
+    flex-wrap: wrap;
+  }
+  .pagination {
+    display: none;
+  }
+  .featured-cards-container,
+  .featured-cards-container1,
+  .h-m-starbucks,
+  .happy-you-cards {
+    flex-wrap: wrap;
+  }
+  .container-parent5 {
+    gap: 77px;
+  }
+  .fathers-day-cards5 {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading-17 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .container-parent5 {
+    gap: 38px;
+  }
+  .fathers-day-cards5 {
+    gap: 24px;
+  }
+  .birthday-link-item {
+    gap: 26px;
+  }
+  .birthday-link-item-parent {
+    gap: 17px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .fathers-day-cards1 {
+    gap: 18px;
+  }
+  .heading-17 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .container-parent5 {
+    gap: 19px;
+  }
+  .item-button-go-to-page-11,
+  .item-button-page-1 {
+    flex: 1;
+  }
+  .pagination-items {
+    flex-wrap: wrap;
+  }
+}

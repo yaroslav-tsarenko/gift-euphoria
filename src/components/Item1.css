@@ -1,0 +1,121 @@
+.googlepng-icon2 {
+  width: 57px;
+  height: 57px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.starsvg-icon14,
+.starsvg-icon15,
+.starsvg-icon16,
+.starsvg-icon17,
+.starsvg-icon18 {
+  height: 26px;
+  width: 26px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 26px;
+}
+.googlepng-parent,
+.starsvg-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.googlepng-parent {
+  flex-direction: column;
+  padding: 0 0 4px;
+  gap: 8px;
+}
+.easy-and-simple {
+  width: 296px;
+  position: relative;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.heading-53 {
+  align-self: stretch;
+  height: 28.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.9px;
+  box-sizing: border-box;
+  color: #1a191e;
+  font-family: "Avenir Next LT Pro";
+}
+.i-love-the {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.i-love-the-convenience-and-eas-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+  font-size: 16px;
+}
+.from-jessica-hana,
+.link-see2 {
+  position: relative;
+  letter-spacing: 0.15em;
+  text-transform: capitalize;
+}
+.from-jessica-hana {
+  line-height: 110%;
+  white-space: nowrap;
+}
+.link-see2 {
+  line-height: 17px;
+  color: #4285f4;
+}
+.from-jessica-hana-parent,
+.item2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 14px;
+}
+.item2 {
+  width: 406.7px;
+  margin: 0 !important;
+  position: absolute;
+  top: 553.1px;
+  left: 0;
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid rgba(156, 163, 175, 0.4);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 31px 32px 25px;
+  gap: 12px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #545454;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .easy-and-simple {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

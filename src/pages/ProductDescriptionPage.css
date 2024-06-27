@@ -1,0 +1,312 @@
+.heading-2,
+.main {
+  align-self: stretch;
+  display: flex;
+}
+.main {
+  background-color: #fff;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 80px;
+  box-sizing: border-box;
+  gap: 80px;
+  max-width: 100%;
+}
+.heading-2 {
+  margin: 0;
+  height: 48px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.heading-2-recommended-egift-wrapper {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.recommended {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 18px;
+  text-transform: capitalize;
+}
+.tab {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.3px 0 15.7px;
+}
+.horizontal-divider {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  background-color: #c5445e;
+  z-index: 1;
+}
+.recommended-tab-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1px;
+}
+.how-to-use {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 18px;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 103px;
+}
+.how-to-use-tab {
+  width: 103px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.3px 0 0;
+  box-sizing: border-box;
+}
+.page-bottom,
+.tablist {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.tablist {
+  width: 258.3px;
+  border-bottom: 3px solid #ebeded;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  padding: 0 5px 0 0;
+  gap: 5.1px;
+  text-align: center;
+  font-size: 14px;
+  font-family: Roboto;
+}
+.page-bottom {
+  width: 1467.3px;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.b8f0cc5-e47f-4879-9ad9-af344de-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading {
+  width: 42.7px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container {
+  height: 229px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.feb96f9c-00a8-4b46-8fd1-0faf50-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading1 {
+  width: 131.1px;
+  position: relative;
+  line-height: 23px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.container1 {
+  height: 229px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.d15528a2-6ec1-4ecd-9bef-f81877-icon {
+  border: 0;
+  background-color: transparent;
+  height: 187.2px;
+  width: auto;
+  outline: 0;
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link-heading2 {
+  width: 269.6px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.container2 {
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.c6c37-a650-4bad-9515-a032e09a4-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading3 {
+  width: 215.6px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+}
+.card-gallery,
+.container3 {
+  display: flex;
+  align-items: flex-start;
+}
+.container3 {
+  height: 229px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.card-gallery {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  font-family: Roboto;
+}
+.page-bottom-parent,
+.productdescriptionpage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.page-bottom-parent {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 80px 192px;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 48px;
+  color: #3a1a5f;
+  font-family: "Avenir Next LT Pro";
+}
+.productdescriptionpage {
+  width: 100%;
+  position: relative;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1650px) {
+  .card-gallery {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .main {
+    gap: 40px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .page-bottom {
+    flex-wrap: wrap;
+  }
+  .page-bottom-parent {
+    padding-left: 96px;
+    padding-right: 96px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .main {
+    gap: 20px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .heading-2 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .page-bottom-parent {
+    gap: 16px;
+    padding: 52px 48px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-2 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

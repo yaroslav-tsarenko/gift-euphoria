@@ -1,0 +1,86 @@
+.e2e285-8f8e-4acd-9e21-3c6bd765-icon {
+  height: 187.2px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.alshaya-image-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 3px 0 2px;
+}
+.alshaya-group-gift,
+.card {
+  margin: 0;
+}
+.alshaya-group-gift-container {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 99px;
+}
+.in-store-only {
+  width: 118px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container6 {
+  margin-top: -6px;
+  width: 107.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.8px 0 4.2px 9px;
+  box-sizing: border-box;
+}
+.background3 {
+  height: 24px;
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  flex-direction: row;
+  color: #ffb779;
+}
+.alshaya-group-gift-card-parent,
+.background3,
+.container5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.alshaya-group-gift-card-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 38px;
+}
+.container5 {
+  width: 297.3px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 3px 0;
+  box-sizing: border-box;
+  gap: 13px;
+  text-align: left;
+  font-size: 16px;
+  color: #3a1a5f;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .alshaya-group-gift-card-parent {
+    flex-wrap: wrap;
+    gap: 19px;
+  }
+}

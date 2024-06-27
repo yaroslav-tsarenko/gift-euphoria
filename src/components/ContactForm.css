@@ -1,0 +1,253 @@
+.payment-information {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: "Apercu Pro";
+  flex-shrink: 0;
+}
+.card-information {
+  color: #1c1c1c;
+  display: inline-block;
+  min-width: 121px;
+}
+.card-information,
+.card-number-placeholder {
+  position: relative;
+  line-height: 22px;
+}
+.frame-child1,
+.frame-icon,
+.frame-inner {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 24px;
+}
+.frame-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.form-field1 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  gap: 20px;
+}
+.icon4,
+.mmyy {
+  position: relative;
+}
+.mmyy {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 54px;
+}
+.icon4 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.form-field2 {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 14px 16px;
+  gap: 64px;
+  min-width: 131px;
+}
+.icon5,
+.mmyy1 {
+  position: relative;
+}
+.mmyy1 {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 54px;
+}
+.icon5 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.card-information-parent,
+.form-field-parent,
+.form-field3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.form-field3 {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  overflow: hidden;
+  align-items: center;
+  padding: 14px 16px;
+  gap: 64px;
+  min-width: 131px;
+}
+.card-information-parent,
+.form-field-parent {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 16px;
+}
+.card-information-parent {
+  flex-direction: column;
+  color: #fff;
+}
+.country-or-region,
+.usa {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 123px;
+}
+.usa {
+  min-width: 31px;
+}
+.form-field-child,
+.icon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.icon6 {
+  display: none;
+}
+.form-field4 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  gap: 20px;
+  color: #fff;
+}
+.country-or-region-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frame-child2 {
+  height: 21px;
+  width: 21px;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.i-verified-that {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 253px;
+  max-width: 100%;
+}
+.frame-parent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.contact-form-child {
+  width: 324.5px;
+  position: relative;
+  max-height: 100%;
+  max-width: 100%;
+}
+.i-verified-that1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.button2 {
+  align-self: stretch;
+  height: 54px;
+}
+.contact-form {
+  width: 420px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px;
+  max-width: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .payment-information {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .form-field-parent,
+  .form-field1,
+  .frame-parent3 {
+    flex-wrap: wrap;
+  }
+  .button2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

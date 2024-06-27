@@ -1,0 +1,92 @@
+.heading-14 {
+  width: 694px;
+  position: relative;
+  line-height: 53px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.payout-card-container-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.see-all-egift3 {
+  flex: 1;
+  position: relative;
+  line-height: 23px;
+}
+.icon6 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.heading-1-payout-budgeting-parent,
+.icon-frame,
+.link10 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon-frame {
+  flex-direction: column;
+  padding: 2.5px 0 0;
+}
+.heading-1-payout-budgeting-parent,
+.link10 {
+  box-sizing: border-box;
+}
+.link10 {
+  width: 226px;
+  border-radius: 12px;
+  border: 1px solid #c5445e;
+  flex-direction: row;
+  padding: 15px 21px;
+  gap: 19.6px;
+  font-size: 16px;
+  color: #c5445e;
+  font-family: Roboto;
+}
+.heading-1-payout-budgeting-parent {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 80px 192px;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 48px;
+  color: #3a1a5f;
+  font-family: "Avenir Next LT Pro";
+}
+@media screen and (max-width: 1300px) {
+  .heading-1-payout-budgeting-parent {
+    padding-left: 96px;
+    padding-right: 96px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading-14 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .heading-1-payout-budgeting-parent {
+    gap: 16px;
+    padding: 52px 48px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-14 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

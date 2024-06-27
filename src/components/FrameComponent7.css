@@ -1,0 +1,304 @@
+.heading-15 {
+  width: 479px;
+  position: relative;
+  line-height: 53px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.b95c60b-b1e4-415f-b08e-2fbbbd2-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.hypermarkets,
+.link11 {
+  display: flex;
+  align-items: center;
+}
+.hypermarkets {
+  width: 114.7px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+}
+.link11 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.b037d2be-acb4-4812-808c-750903-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.link12,
+.online-shopping {
+  display: flex;
+  align-items: center;
+}
+.online-shopping {
+  width: 133.5px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+}
+.link12 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.b65-5dac-482d-ac53-2a54f41bde8-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.fashion,
+.link13 {
+  display: flex;
+  align-items: center;
+}
+.fashion {
+  width: 63.2px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+  min-width: 63.2px;
+}
+.link13 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.d7ddd52-967f-4589-8e11-63a9b72-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.electronics,
+.link14 {
+  display: flex;
+  align-items: center;
+}
+.electronics {
+  width: 87.5px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+  min-width: 87.5px;
+}
+.link14 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.e94332-b1f8-47fd-9a64-583a3201-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.home-garden,
+.link15 {
+  display: flex;
+  align-items: center;
+}
+.home-garden {
+  width: 129.3px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+}
+.link15 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.e1f12a5c-10b2-4c51-951a-0790d6-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.link16,
+.shopping-malls {
+  display: flex;
+  align-items: center;
+}
+.shopping-malls {
+  width: 123.9px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+}
+.link16 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.f90078f9-6c63-422b-a9a6-dd3630-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.jewellery,
+.link17 {
+  display: flex;
+  align-items: center;
+}
+.jewellery {
+  width: 76.1px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+  min-width: 76.1px;
+}
+.link17 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.c11d5bc4-010e-48b0-9585-9653fb-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.gaming,
+.link18 {
+  display: flex;
+  align-items: center;
+}
+.gaming {
+  width: 65.6px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+}
+.link18 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.b277666a-e464-419f-ac57-ec2c7d-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.food-delivery,
+.link19 {
+  display: flex;
+  align-items: center;
+}
+.food-delivery {
+  width: 108.2px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+}
+.link19 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.heading-1-browse-by-categori-parent,
+.link-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-group {
+  flex-direction: row;
+  gap: 5px;
+  text-align: center;
+  font-size: 16px;
+  font-family: Roboto;
+}
+.heading-1-browse-by-categori-parent {
+  flex-direction: column;
+  gap: 32px;
+  max-width: 100%;
+}
+.homepage-inner {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 48px;
+  color: #3a1a5f;
+  font-family: "Avenir Next LT Pro";
+}
+@media screen and (max-width: 1650px) {
+  .link-group {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading-15 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .heading-1-browse-by-categori-parent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-15 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .homepage-inner {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}

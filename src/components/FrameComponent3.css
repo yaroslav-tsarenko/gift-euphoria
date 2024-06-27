@@ -1,0 +1,172 @@
+.heading-1,
+.online {
+  flex: 1;
+  position: relative;
+}
+.heading-1 {
+  height: 103px;
+  font-size: 48px;
+  line-height: 110%;
+  font-family: "Avenir Next LT Pro";
+  display: flex;
+  align-items: center;
+  min-width: 304px;
+  max-width: 100%;
+}
+.online {
+  line-height: 24px;
+  flex-shrink: 0;
+}
+.container9 {
+  height: 24px;
+  width: 67px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 0.5px 1px 0 12px;
+  box-sizing: border-box;
+}
+.background5,
+.card-type-containers,
+.container9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background5 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  flex-direction: row;
+  padding: 0 9px;
+}
+.card-type-containers {
+  flex-direction: column;
+  padding: 39.5px 0 0;
+  color: #00cca8;
+}
+.in-store {
+  width: 75px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container10 {
+  height: 24px;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 0.5px 1px 0 11px;
+  box-sizing: border-box;
+}
+.background6,
+.card-type-containers1,
+.container10 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background6 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  flex-direction: row;
+  padding: 0 2px;
+}
+.card-type-containers1 {
+  flex-direction: column;
+  padding: 39.5px 0 0;
+  color: #ffb779;
+}
+.card-types,
+.featured-card-containers-parent {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+.card-types {
+  width: 669px;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.featured-card-containers-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.see-all-egift {
+  flex: 1;
+  position: relative;
+  line-height: 23px;
+  color: inherit;
+  text-decoration: none;
+}
+.icon3 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.card-types-parent,
+.featured-see-all-icon-parent,
+.link7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.featured-see-all-icon-parent {
+  flex-direction: column;
+  padding: 2.5px 0 0;
+}
+.card-types-parent,
+.link7 {
+  box-sizing: border-box;
+}
+.link7 {
+  width: 226px;
+  border-radius: 12px;
+  border: 1px solid #c5445e;
+  flex-direction: row;
+  padding: 15px 21px;
+  gap: 19.6px;
+  color: #c5445e;
+}
+.card-types-parent {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 80px 192px;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #3a1a5f;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1300px) {
+  .card-types-parent {
+    padding-left: 96px;
+    padding-right: 96px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading-1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .card-types-parent {
+    gap: 16px;
+    padding: 52px 48px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

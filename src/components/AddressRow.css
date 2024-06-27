@@ -1,0 +1,775 @@
+.checkout1 {
+  margin: 0;
+  width: 141px;
+  position: relative;
+  font-size: 32px;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+  display: inline-block;
+}
+.first-name,
+.header10 {
+  font-size: 18px;
+  font-family: "Avenir Next LT Pro";
+}
+.header10 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  color: #fff;
+}
+.first-name {
+  position: relative;
+  line-height: 22px;
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  min-width: 89px;
+}
+.block-1 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 24px;
+  min-width: 314px;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.last-name {
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  min-width: 87px;
+}
+.block-2,
+.row-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.block-2 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  overflow: hidden;
+  align-items: center;
+  padding: 12px 24px;
+  min-width: 314px;
+  white-space: nowrap;
+}
+.row-1 {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 19px;
+}
+.company-name {
+  width: 134px;
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+  display: inline-block;
+}
+.block-11 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 24px;
+  min-width: 314px;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.country {
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  min-width: 66px;
+}
+.icon15 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.block-21,
+.row-2 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.block-21 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  overflow: hidden;
+  align-items: center;
+  justify-content: space-between;
+  padding: 11px 24px;
+  min-width: 314px;
+  gap: 20px;
+}
+.row-2 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px;
+}
+.street-address {
+  width: 121px;
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+  display: inline-block;
+}
+.block-12,
+.row-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.block-12 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  overflow: hidden;
+  align-items: center;
+  padding: 12px 24px;
+}
+.row-3 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.block-22,
+.town-city {
+  font-size: 18px;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+}
+.block-22 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 50px;
+}
+.town-city {
+  position: relative;
+  line-height: 22px;
+  text-align: left;
+  display: inline-block;
+  min-width: 92px;
+}
+.block-13,
+.row-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.block-13 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  overflow: hidden;
+  align-items: center;
+  padding: 12px 24px;
+}
+.row-4 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.block-23,
+.zip {
+  font-size: 18px;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+}
+.block-23 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 50px;
+}
+.zip {
+  position: relative;
+  line-height: 22px;
+  text-align: left;
+  display: inline-block;
+  min-width: 27px;
+}
+.block-14 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 23px;
+  min-width: 314px;
+  max-width: 100%;
+}
+.phone {
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  min-width: 53px;
+}
+.block-24,
+.form-field-block,
+.row-5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.block-24 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  overflow: hidden;
+  align-items: center;
+  padding: 12px 24px;
+  min-width: 314px;
+}
+.form-field-block,
+.row-5 {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 19px;
+}
+.form-field-block {
+  flex-direction: column;
+  gap: 24px;
+}
+.billing-separator {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #fff;
+  box-sizing: border-box;
+}
+.button7,
+.button8 {
+  height: 54px;
+  width: 100px;
+}
+.button8 {
+  width: 132px;
+}
+.billing-header-items {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.billing-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 35.8px;
+  min-width: 640px;
+  max-width: 100%;
+}
+.header11 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: "Avenir Next LT Pro";
+  font-size: 18px;
+  color: #fff;
+}
+.cart-subtotal1,
+.order-detail-values {
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  min-width: 108px;
+}
+.order-detail-values {
+  min-width: 68px;
+  white-space: nowrap;
+}
+.cart-subtotal-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 24px;
+  gap: 20px;
+}
+.div17,
+.shipping-handling1 {
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+  display: inline-block;
+}
+.shipping-handling1 {
+  width: 172px;
+}
+.div17 {
+  min-width: 47px;
+  white-space: nowrap;
+}
+.shipping-handling-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 24px;
+  gap: 20px;
+}
+.div18,
+.other-taxes1 {
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  min-width: 98px;
+}
+.div18 {
+  min-width: 47px;
+  white-space: nowrap;
+}
+.other-taxes-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 24px;
+  gap: 20px;
+}
+.order-details-separator {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #fff;
+  box-sizing: border-box;
+}
+.div19,
+.grand-total3 {
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+}
+.div19 {
+  width: 68px;
+  text-align: right;
+  min-width: 68px;
+  white-space: nowrap;
+}
+.checkout-details1,
+.grand-total-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 24px;
+  gap: 20px;
+}
+.checkout-details1 {
+  border-radius: 5px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 20px;
+  gap: 35.8px;
+}
+.header12 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: "Avenir Next LT Pro";
+  font-size: 18px;
+  color: #fff;
+}
+.image-1-icon {
+  position: absolute;
+  top: 6px;
+  left: 7px;
+  width: 38px;
+  height: 23px;
+  object-fit: contain;
+}
+.logo-block {
+  width: 51px;
+  height: 35px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.bank,
+.transfer {
+  margin: 0;
+}
+.bank-transfer {
+  position: relative;
+  font-size: 18px;
+  line-height: 120%;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+}
+.block-15 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 10px;
+  left: 9px;
+  width: 34px;
+  height: 16px;
+  object-fit: contain;
+}
+.logo-block1 {
+  width: 51px;
+  height: 35px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.google,
+.pay {
+  margin: 0;
+}
+.google-pay {
+  position: relative;
+  font-size: 18px;
+  line-height: 120%;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+}
+.block-25,
+.logos-block {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.logos-block {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.image-3-icon {
+  position: absolute;
+  top: calc(50% - 6.5px);
+  left: calc(50% - 15.5px);
+  width: 32px;
+  height: 13px;
+  object-fit: contain;
+}
+.logo-block2 {
+  align-self: stretch;
+  height: 35px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.apple,
+.pay1 {
+  margin: 0;
+}
+.apple-pay {
+  position: relative;
+  font-size: 18px;
+  line-height: 120%;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+}
+.block-3 {
+  width: 51px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.image-4-icon {
+  position: absolute;
+  top: 8px;
+  left: 6px;
+  width: 40px;
+  height: 20px;
+  object-fit: contain;
+}
+.logo-block3 {
+  align-self: stretch;
+  height: 35px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.paypal {
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "Avenir Next LT Pro";
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  min-width: 52px;
+}
+.block-3-parent,
+.block-4 {
+  width: 52px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.block-3-parent {
+  width: 150px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkout-details2 {
+  align-self: stretch;
+  border-radius: 5px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 36px 291px 36px 24px;
+  gap: 36px;
+}
+.billing-form,
+.billing-header,
+.checkout-details2,
+.transfer-options {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.transfer-options {
+  align-self: stretch;
+  flex-direction: column;
+}
+.billing-form,
+.billing-header {
+  gap: 47px;
+  max-width: 100%;
+}
+.billing-header {
+  width: 500px;
+  flex-direction: column;
+  min-width: 500px;
+}
+.billing-form {
+  margin: 0;
+  align-self: stretch;
+  flex-direction: row;
+}
+.header13 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: "Avenir Next LT Pro";
+  font-size: 18px;
+  color: #fff;
+}
+.your-personal-data {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.button9 {
+  align-self: stretch;
+  height: 54px;
+}
+.billing-form-parent,
+.checkout-details3,
+.checkout2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.checkout-details3 {
+  align-self: stretch;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 36px 24px;
+  gap: 36px;
+}
+.billing-form-parent,
+.checkout2 {
+  width: 500px;
+  max-width: 100%;
+}
+.billing-form-parent {
+  width: 1532px;
+  align-items: flex-end;
+}
+.address-row {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 24px 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1275px) {
+  .billing-header {
+    flex: 1;
+  }
+  .billing-form {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .row-1,
+  .row-2,
+  .row-5 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .checkout1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .billing-content {
+    gap: 18px;
+    min-width: 100%;
+  }
+  .checkout-details1 {
+    gap: 18px;
+  }
+  .checkout-details2 {
+    gap: 18px;
+    padding-right: 145px;
+    box-sizing: border-box;
+  }
+  .billing-header {
+    gap: 23px;
+    min-width: 100%;
+  }
+  .billing-form {
+    gap: 23px;
+  }
+  .checkout-details3 {
+    gap: 18px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .checkout1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .billing-header-items,
+  .cart-subtotal-parent,
+  .grand-total-group,
+  .other-taxes-parent,
+  .shipping-handling-parent {
+    flex-wrap: wrap;
+  }
+  .button9,
+  .checkout-details2 {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .button9 {
+    padding-left: 20px;
+  }
+}

@@ -1,0 +1,141 @@
+.span2 {
+  color: #a6adb4;
+}
+.get-notified-container2 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.get-notified-new-brands-of-container {
+  width: 640px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 65px 0 66px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.icon12 {
+  width: 18.7px;
+  height: 14px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.email-icon-container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 13px 0 0;
+}
+.enter-your-email2 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 115px;
+}
+.email-input-container1,
+.input2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input2 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 0 0 1px;
+  opacity: 0.42;
+}
+.email-input-container1 {
+  width: 429.3px;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 9px 0 0;
+  box-sizing: border-box;
+  max-width: calc(100% - 194px);
+}
+.button5 {
+  height: 40px;
+  width: 155px;
+}
+.form2 {
+  border-radius: 12px;
+  border: 1px solid #a6adb4;
+  overflow-x: auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 5px 4px 10px;
+  gap: 10px;
+  text-align: left;
+  font-size: 16px;
+  color: gray;
+  font-family: Roboto;
+}
+.backgroundshadow-container,
+.backgroundshadow2,
+.form2 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.backgroundshadow2 {
+  width: 1280px;
+  border-radius: 12px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 50px 20px 45px;
+  gap: 35px;
+  background-image: url(/public/backgroundshadow2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.backgroundshadow-container {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  text-align: center;
+  font-size: 32px;
+  color: #3a1a5f;
+  font-family: "Avenir Next LT Pro";
+}
+@media screen and (max-width: 900px) {
+  .get-notified-container2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .get-notified-new-brands-of-container {
+    padding-left: 33px;
+    padding-right: 32px;
+    box-sizing: border-box;
+  }
+  .backgroundshadow2 {
+    gap: 17px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .get-notified-container2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .backgroundshadow-container {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}

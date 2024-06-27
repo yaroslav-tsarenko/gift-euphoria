@@ -1,0 +1,40 @@
+.ea965a1-01ec-4efa-8254-2ce656c-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-heading4 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 75px;
+}
+.container4,
+.featured-card-containers {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container4 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 12px;
+  overflow: hidden;
+  padding: 3px 0;
+  gap: 10px;
+}
+.featured-card-containers {
+  height: 238.7px;
+  width: 291.5px;
+  padding: 13.5px 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #3a1a5f;
+  font-family: Roboto;
+}

@@ -1,0 +1,59 @@
+.e2e285-8f8e-4acd-9e21-3c6bd765-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.alshaya-group-gift1,
+.card1 {
+  margin: 0;
+}
+.alshaya-group-gift-container1,
+.in-store-only5 {
+  position: relative;
+  line-height: 135%;
+}
+.in-store-only5 {
+  flex: 1;
+  line-height: 16px;
+}
+.background16 {
+  width: 132px;
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  flex-direction: row;
+  padding: 3.8px 4px 4.2px 9px;
+  box-sizing: border-box;
+  white-space: nowrap;
+  color: #ffb779;
+}
+.alshaya-group-gift-card-group,
+.background16,
+.container42 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.alshaya-group-gift-card-group {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 26px;
+}
+.container42 {
+  height: 246px;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 3px 0 2.9px;
+  box-sizing: border-box;
+  gap: 13.1px;
+  text-align: left;
+  font-size: 16px;
+  color: #3a1a5f;
+  font-family: Roboto;
+}

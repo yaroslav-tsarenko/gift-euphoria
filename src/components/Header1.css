@@ -1,0 +1,283 @@
+.nav-icon {
+  width: 27px;
+  height: 37.3px;
+  position: relative;
+  flex-shrink: 0;
+}
+.nav-icon-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.8px 0 0;
+}
+.gift-euphoria2 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.05em;
+  line-height: 41px;
+  text-transform: capitalize;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.logo2,
+.nav-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nav-wrapper {
+  flex: 1;
+  gap: 6.8px;
+}
+.logo2 {
+  width: 214.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 27.2px;
+  color: #000;
+  font-family: "Avenir Next LT Pro";
+}
+.wrapper {
+  height: 20.5px;
+  width: 69px;
+}
+.link-buy4 {
+  position: relative;
+  line-height: 135%;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 116px;
+  white-space: nowrap;
+}
+.business-link-items {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.5px 0 0;
+}
+.link-start1 {
+  position: relative;
+  line-height: 135%;
+  white-space: nowrap;
+}
+.location-dropdown {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.5px 0 0;
+}
+.for-business1,
+.icon10 {
+  position: relative;
+  flex-shrink: 0;
+}
+.for-business1 {
+  margin-left: -97px;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 92px;
+  white-space: nowrap;
+}
+.icon10 {
+  height: 20px;
+  width: 20px;
+  overflow: hidden;
+}
+.link31 {
+  align-self: stretch;
+  width: 111.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0.5px 91px;
+  box-sizing: border-box;
+  gap: 5px;
+  color: #4071d9;
+}
+.link-buy5 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 88px;
+  white-space: nowrap;
+}
+.action-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.5px 0 0;
+}
+.user-action-links {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.user-action-links-wrapper {
+  height: 33px;
+  width: 674.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.helpline1 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 59px;
+}
+.help-center-iconsvg1 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 20px;
+}
+.link32,
+.user-items {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.user-items {
+  gap: 5px;
+  flex-shrink: 0;
+}
+.link32 {
+  padding: 0 0 1px;
+}
+.login-signup1 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 105px;
+  white-space: nowrap;
+}
+.user-login-iconsvg1 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 20px;
+}
+.link33,
+.login-signup-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.login-signup-group {
+  gap: 5px;
+  flex-shrink: 0;
+}
+.link33 {
+  padding: 0 0 1px;
+}
+.cart1 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 33px;
+}
+.header-cart-iconsvg1 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 20px;
+}
+.cart-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px;
+  flex-shrink: 0;
+}
+.link34 {
+  flex-direction: row;
+  padding: 0 0 1px;
+}
+.link34,
+.user-links,
+.user-links-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.user-links {
+  flex-direction: row;
+  gap: 30px;
+}
+.user-links-wrapper {
+  flex-direction: column;
+  padding: 10px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.header-right {
+  width: 1536px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.header-right,
+.header2,
+.header3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.header3 {
+  flex: 1;
+  background-color: #fff;
+  justify-content: center;
+  padding: 30px 20px;
+  box-sizing: border-box;
+}
+.header2 {
+  align-self: stretch;
+  justify-content: flex-start;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: 16px;
+  color: #3a1a5f;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1300px) {
+  .user-action-links {
+    display: none;
+  }
+  .user-action-links-wrapper {
+    width: 0;
+  }
+}
+@media screen and (max-width: 900px) {
+  .link-start1 {
+    display: none;
+  }
+}

@@ -1,0 +1,79 @@
+.b1322e9d-bc15-48e7-9ba0-1b2da7-icon {
+  align-self: stretch;
+  height: 187.2px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link-heading5 {
+  position: relative;
+  line-height: 23px;
+  display: inline-block;
+  min-width: 93.6px;
+}
+.in-store-only1 {
+  width: 118px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container8 {
+  margin-top: -6px;
+  width: 107.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  padding: 9.8px 0 4.2px 9px;
+  box-sizing: border-box;
+}
+.background4,
+.container8,
+.link-heading-5-starbucks-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.background4 {
+  height: 24px;
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  justify-content: flex-start;
+  color: #ffb779;
+}
+.link-heading-5-starbucks-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.container7,
+.starbucks-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container7 {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  padding: 3px 0;
+  gap: 13px;
+}
+.starbucks-card {
+  width: 291.5px;
+  padding: 11px 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #3a1a5f;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .link-heading-5-starbucks-parent {
+    flex-wrap: wrap;
+  }
+}
